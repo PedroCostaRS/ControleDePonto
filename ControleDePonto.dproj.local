@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/11/03 20:15:11.849,=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/03 20:16:07.560,C:\Users\Pedro\Desktop\Aplicações\Delphi\ControleDePonto\Principal.pas=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/11/03 20:16:07.560,C:\Users\Pedro\Desktop\Aplicações\Delphi\ControleDePonto\Principal.dfm=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/11/03 20:16:31.199,C:\Users\Pedro\Desktop\Aplicações\Delphi\ControleDePonto\ControleDePonto.dproj=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/11/03 20:17:31.662,=C:\Users\Pedro\Desktop\Aplicações\Delphi\ControleDePonto\Unit1.pas</Transaction>
+    <Transaction>2022/11/03 20:33:57.212,C:\Users\Pedro\Desktop\Aplicações\Delphi\ControleDePonto\udtm.pas=C:\Users\Pedro\Desktop\Aplicações\Delphi\ControleDePonto\Unit1.pas</Transaction>
+    <Transaction>2022/11/03 20:33:57.212,C:\Users\Pedro\Desktop\Aplicações\Delphi\ControleDePonto\udtm.dfm=C:\Users\Pedro\Desktop\Aplicações\Delphi\ControleDePonto\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
